@@ -1,0 +1,81 @@
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+/* Contenedor principal de sección ENTRADAS */
+.entradas{
+    padding: 5rem 0;
+
+    h3{
+        text-align: center;
+        color: v.$blanco;
+        margin-bottom: 2rem;
+    }
+
+    .contenedor-entradas{
+        @include m.tablet {
+            @include m.grid(2, 5rem);
+            
+        }
+    }
+}
+
+.entrada{
+
+    p{
+        text-align: center;
+        color: v.$blanco;
+        text-transform: uppercase;
+    }
+
+
+    &-header,
+    &-footer {
+        padding: .5rem;
+        p{
+            text-align: center;
+            color: v.$blanco;
+            margin: 0;
+        }
+    }
+
+    &-header{
+        background-color: v.$rosa;
+        p{
+            text-transform: uppercase;
+            font-size: 1.8rem;
+        }
+
+    }
+    &-body{
+        background-color: v.$blanco;
+        color: v.$negro;
+        ul{
+            @include m.resetear-lista;
+            text-align: center;
+            li,
+            :nth-child(odd){
+                    background-color: v.$blanco;
+                    padding: 1rem;
+                    border-bottom: 1px solid v.$verde;
+            }
+        }
+    }
+    &-footer{
+        background-color: v.$morado;
+        color: v.$negro;
+        p{
+            font-size: 2.2rem;
+            font-weight: 700;
+        }
+    }
+}
+
+.relleno{
+    color: v.$blanco;
+}
+
+@media only screen and (max-width: 800px){
+    .relleno{
+        display: none;
+    }
+}
