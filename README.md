@@ -28,7 +28,7 @@ Starting a new journey in WEB DEV. Trying to learn a bit everyday. Finally decid
 
 This is a simple example of a responsevly web page for a Music Festival.
 
-All credits for this go to the Instructor of the Web Dev course [Juan Pablo De la torre Valdez](https://www.udemy.com/user/juanpablodelatorrevaldez/) from the [Udmey](https://www.udemy.com/) learning platform.
+All credits for this go to the Instructor of the Web Dev course [Juan Pablo De la torre Valdez](https://www.udemy.com/user/juanpablodelatorrevaldez/) from the [Udemy](https://www.udemy.com/) learning platform.
 
 <!-- OVERVIEW -->
 
@@ -64,7 +64,7 @@ I used [Google Fonts](https://fonts.google.com/specimen/Poppins?vfquery=serif&qu
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This Web page was created thanks to the acquired knowledge and guidance of the course instructor [Juan Pablo De la torre Valdez](https://www.udemy.com/user/juanpablodelatorrevaldez/) under the [Udmey](https://www.udemy.com/) learning platform.
+This Web page was created thanks to the acquired knowledge and guidance of the course instructor [Juan Pablo De la torre Valdez](https://www.udemy.com/user/juanpablodelatorrevaldez/) under the [Udemy](https://www.udemy.com/) learning platform.
 
 
 ## Contact
