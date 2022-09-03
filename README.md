@@ -36,7 +36,7 @@ All credits for this go to the Instructor of the Web Dev course [Juan Pablo De l
 
 ![screenshot](https://github.com/dadobe/festival-musica-udemy/blob/main/Music-Festival-WebDev-Course-Udemy.png)
 
-![Rock & EDM festival](#https://rock-and-edm-festival-udemy.netlify.app/)
+Check the final result here -> ![Rock & EDM festival](#https://rock-and-edm-festival-udemy.netlify.app/)
 
 ### Built With
 
