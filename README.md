@@ -53,9 +53,9 @@ All credits for this go to the Instructor of the Web Dev course [Juan Pablo De l
 
 Cool project on which you can smoothly scroll to the different sections of the web (top, gallery & tickets).
 The page is completely responsive :) (looks quite cool when you manage to make it work in that way!!).
-In this project I learned how to create a project using [SASS](#https://es.wikipedia.org/wiki/Sass), which is basically to split your CSS in little files to make it easier to work with.
-Also learned to work with [GULP](#https://en.wikipedia.org/wiki/Gulp.js).
-I also learned how to manipulated [DOM](#https://en.wikipedia.org/wiki/Document_Object_Model) in order to make a WEB more interactive.
+In this project I learned how to create a project using [SASS](https://es.wikipedia.org/wiki/Sass), which is basically to split your CSS in little files to make it easier to work with.
+Also learned to work with [GULP](https://en.wikipedia.org/wiki/Gulp.js).
+I also learned how to manipulated [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) in order to make a WEB more interactive.
 
 I used [Google Fonts](https://fonts.google.com/specimen/Poppins?vfquery=serif&query=pop&preview.text=The%20creative%20crew&preview.text_type=custom) as well in order to match as best as possible with the example given.
 
